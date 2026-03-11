@@ -1,1 +1,1 @@
-console.log("Learning Git and GitHub 🚀");git status
+console.log("Learning Git and GitHub 🚀");
